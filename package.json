@@ -1,5 +1,5 @@
 {
-	"author": "Jane Doe",
+	"author": {},
 	"main": "server.js",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
