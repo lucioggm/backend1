@@ -1,5 +1,4 @@
 {
-	"author": {},
 	"main": "server.js",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
@@ -12,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Luciano"
 }
